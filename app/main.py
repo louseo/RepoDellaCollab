@@ -19,3 +19,4 @@ if __name__ == "__main__":
 @aggiuto servizio
 #aggiunto servizio di gestione task
 #issue4
+#issue4 parte 2
