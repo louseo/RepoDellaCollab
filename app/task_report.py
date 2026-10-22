@@ -1,5 +1,5 @@
 from app.models.task import Task
-
+#l'ho fatto io
 
 def riepilogo(tasks: list[Task]) -> str:
     """Restituisce un riepilogo testuale, senza stampare direttamente."""
