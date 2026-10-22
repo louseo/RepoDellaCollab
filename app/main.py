@@ -8,6 +8,7 @@ def main() -> None:
     aggiungi_task(tasks, "Scrivere test", "Marco")
     completa_task(tasks, 1)
     print(riepilogo(tasks))
+    riepilogo(tasks)
     for task in tasks:
         stato = "OK" if task.completato else "DA FARE"
         print(f"[{stato}] #{task.id}: {task.titolo} ({task.assegnatario})")
