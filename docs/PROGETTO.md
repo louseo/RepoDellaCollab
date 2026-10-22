@@ -1,5 +1,6 @@
 # Task Manager — Specifiche del laboratorio
 
+# developing
 ## Funzioni attuali
 - Creazione task con titolo e assegnatario
 - Completamento ed eliminazione per ID
