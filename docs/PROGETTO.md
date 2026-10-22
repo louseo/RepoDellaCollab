@@ -23,3 +23,5 @@
 - Una feature dipende da un'altra prima che la prima venga integrata in `main`
 
 **Nota:** le modifiche conflittuali e i branch divergenti vanno prodotti dagli studenti durante il laboratorio; la baseline deve restare stabile e testabile.
+
+# A O 
