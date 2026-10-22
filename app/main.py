@@ -17,3 +17,4 @@ if __name__ == "__main__":
     main()
 
 @aggiuto servizio
+#aggiunto servizio di gestione task
